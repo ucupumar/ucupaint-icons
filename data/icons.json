@@ -24,5 +24,13 @@
     "vector_channel_icon",
     "asterisk_icon",
     "uv_icon",
-    "channels_icon"
+    "channels_icon",
+    "image_icon",
+    "texture_icon",
+    "mask_icon",
+    "color_icon",
+    "hemi_icon",
+    "object_index_icon",
+    "vertex_color_icon",
+    "input_icon"
 ]
