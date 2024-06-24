@@ -22,5 +22,7 @@
     "rgb_channel_icon",
     "value_channel_icon",
     "vector_channel_icon",
-    "asterisk_icon"
+    "asterisk_icon",
+    "uv_icon",
+    "channels_icon"
 ]

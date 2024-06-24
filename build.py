@@ -32,9 +32,12 @@ def save(tile, name):
 
 # Regular
 def process_regular():
+    saveds = []
     for i in range(len(icons)):
-        tile = crop_tile(i)
-        save(tile, icons[i])
+        if icons[i] not in saveds:
+            tile = crop_tile(i)
+            save(tile, icons[i])
+            saveds.append(icons[i])
 
 # Overlays
 def process_overlays():
