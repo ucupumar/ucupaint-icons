@@ -34,7 +34,7 @@ def save(tile, name):
 def process_regular():
     saveds = []
     for i in range(len(icons)):
-        if icons[i] not in saveds:
+        if icons[i] != '' and icons[i] not in saveds:
             tile = crop_tile(i)
             save(tile, icons[i])
             saveds.append(icons[i])
