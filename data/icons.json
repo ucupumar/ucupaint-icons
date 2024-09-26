@@ -38,5 +38,13 @@
     "backface_icon",
     "backface_icon",
     "bake_icon",
-    "background_icon"
+    "background_icon",
+    "r_icon",
+    "g_icon",
+    "b_icon",
+    "a_icon",
+    "r_icon",
+    "g_icon",
+    "b_icon",
+    "a_icon"
 ]
