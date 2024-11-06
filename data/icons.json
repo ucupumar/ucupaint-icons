@@ -46,5 +46,7 @@
     "r_icon",
     "g_icon",
     "b_icon",
-    "a_icon"
+    "a_icon",
+    "group_icon",
+    "checkbox_icon"
 ]
