@@ -11,7 +11,7 @@ disabled = json.load(open('./data/disabled.json'))
 sheet_files = ['light.png', 'dark.png', 'legacy.png']
 sheets = [(path, Image.open(f'./source/sheets/{path}')) for path in sheet_files]
 
-padding = 0.115
+padding = 0.1
 
 # Tile extractor
 def crop_tile(sheet, index):
@@ -29,7 +29,9 @@ def crop_tile(sheet, index):
 
 # Tile downscale and save
 def save(tile, sheet, name):
-    tile = tile.resize((32, 32), Image.Resampling.LANCZOS)
+    width, height = tile.size
+    if width != 32 or height != 32:
+        tile = tile.resize((32, 32), Image.Resampling.LANCZOS)
 
     sheet_base_name = sheet[0].replace('.png', '')
 
