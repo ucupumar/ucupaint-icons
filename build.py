@@ -11,7 +11,11 @@ disabled = json.load(open('./data/disabled.json'))
 sheet_files = ['light.png', 'dark.png', 'legacy.png']
 sheets = [(path, Image.open(f'./source/sheets/{path}')) for path in sheet_files]
 
-padding = 0.1
+# NOTE: The actual padding should be 0.1 if the sheet resolution is 400x400.
+# But since the authoring of the icons originally used 4096x4096 sheet, 
+# most icons will look better using 0.115, expect for 'checkbox_icon' 
+# which look better using 0.1 padding and 400x400 sheet resolution
+padding = 0.115
 
 # Tile extractor
 def crop_tile(sheet, index):
