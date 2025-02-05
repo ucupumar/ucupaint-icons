@@ -9,7 +9,7 @@
    id="svg308"
    sodipodi:docname="ucupaint_icons.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   inkscape:export-filename="sheets\light.png"
+   inkscape:export-filename="sheets\legacy.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,14 +27,14 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="0.35355339"
-   inkscape:cx="2242.9427"
-   inkscape:cy="2431.0331"
+   inkscape:cx="799.03066"
+   inkscape:cy="1837.0634"
    inkscape:window-width="3840"
    inkscape:window-height="2089"
    inkscape:window-x="-8"
    inkscape:window-y="1067"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Icons"
+   inkscape:current-layer="Light"
    showgrid="true"><inkscape:grid
      id="grid266"
      units="px"
@@ -678,7 +678,7 @@
    id="path21084-9-4-1"
    cx="-223.049"
    cy="-106.57"
-   style="fill:#6363c7;stroke:#000000;stroke-width:1.06px"
+   style="fill:#6363c7;stroke:#000000;stroke-width:1.05998;stroke-dasharray:none"
    r="6.4710002" />
             </g>
             <g
@@ -704,7 +704,8 @@
             </g>
             <g
    id="ICON_RGB"
-   transform="matrix(0.857146,0,0,0.857143,-37.8634,-15.2243)">
+   transform="matrix(0.857146,0,0,0.857143,-37.8634,-15.2243)"
+   inkscape:label="ICON_RGB">
                 <g
    id="rect39698-0-4"
    transform="matrix(1.16666,0,0,1.16667,44.1738,17.7617)">
@@ -3738,9 +3739,78 @@
    id="path100" />
             </g>
             <g
+   id="g15"
+   transform="matrix(0.857146,0,0,0.85714299,-37.8634,-15.224302)"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd"
+   inkscape:label="ICON_RGB_1">
+                <g
+   id="g14"
+   transform="matrix(1.16666,0,0,1.16667,44.1738,17.7617)">
+                    <rect
+   x="-273.04901"
+   y="-114.57"
+   width="16"
+   height="16"
+   style="fill:#b3b3b3;fill-opacity:0"
+   id="rect14" />
+                </g>
+                <circle
+   id="circle15"
+   cx="-265.04901"
+   cy="-106.57"
+   style="fill:#c7c729;stroke:#262626;stroke-width:1.19059;stroke-dasharray:none;stroke-opacity:1"
+   r="6.4710002" />
+            </g><g
+   id="g23"
+   transform="matrix(0.85714202,0,0,0.85714299,-34.864298,-15.224302)"
+   inkscape:label="ICON_VALUE_1"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-width:1.19059;stroke-dasharray:none">
+                <g
+   id="g22"
+   transform="matrix(1.16667,0,0,1.16667,40.675,17.7617)"
+   style="stroke-width:1.0205;stroke-dasharray:none">
+                    <rect
+   x="-252.049"
+   y="-114.57"
+   width="16"
+   height="16"
+   style="fill:#b3b3b3;fill-opacity:0;stroke-width:1.0205;stroke-dasharray:none"
+   id="rect20" />
+                </g>
+                <circle
+   id="circle23"
+   cx="-244.049"
+   cy="-106.57"
+   style="fill:#a1a1a1;stroke:#262626;stroke-width:1.19059;stroke-dasharray:none;stroke-opacity:1"
+   r="6.4710002" />
+            </g><g
+   id="g40"
+   transform="matrix(0.85714202,0,0,0.85714299,-31.864298,-15.224302)"
+   inkscape:label="ICON_VECTOR_1"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-width:1.19059;stroke-dasharray:none">
+                <g
+   id="g34"
+   transform="matrix(1.16667,0,0,1.16667,37.175,17.7617)"
+   style="stroke-width:1.0205;stroke-dasharray:none">
+                    <rect
+   x="-231.049"
+   y="-114.57"
+   width="16"
+   height="16"
+   style="fill:#b3b3b3;fill-opacity:0;stroke-width:1.0205;stroke-dasharray:none"
+   id="rect23" />
+                </g>
+                <circle
+   id="circle39"
+   cx="-223.049"
+   cy="-106.57"
+   style="fill:#6363c7;stroke:#272727;stroke-width:1.19059;stroke-dasharray:none;stroke-opacity:1"
+   r="6.4710002" />
+            </g><g
    id="ICON_VECTOR1"
    serif:id="ICON_VECTOR"
-   transform="matrix(0.857142,0,0,0.857143,-31.6143,-14.9743)">
+   transform="matrix(0.857142,0,0,0.857143,-31.6143,-14.9743)"
+   style="display:none">
                 <g
    id="rect39698-0-91"
    serif:id="rect39698-0-9"
@@ -3768,7 +3838,8 @@
             <g
    id="ICON_VALUE1"
    serif:id="ICON_VALUE"
-   transform="matrix(0.857142,0,0,0.857143,-34.5143,-14.9743)">
+   transform="matrix(0.857142,0,0,0.857143,-34.5143,-14.9743)"
+   style="display:none">
                 <g
    id="rect39698-0-11"
    serif:id="rect39698-0-1"
@@ -3796,7 +3867,8 @@
             <g
    id="ICON_RGB1"
    serif:id="ICON_RGB"
-   transform="matrix(0.857146,0,0,0.857143,-37.4133,-14.9743)">
+   transform="matrix(0.857146,0,0,0.857143,-37.4133,-14.9743)"
+   style="display:none">
                 <g
    id="rect39698-0-41"
    serif:id="rect39698-0-4"
@@ -3824,7 +3896,8 @@
             <g
    id="ICON_CHANNELS1"
    serif:id="ICON_CHANNELS"
-   transform="matrix(0.929615,0,0,0.929615,-5.34034,-8.97796)">
+   transform="matrix(0.929615,0,0,0.929615,-5.34034,-8.97796)"
+   style="display:inline">
                 <g
    transform="matrix(0.0510254,0,0,0.0510254,-274.579,-159.219)"
    id="g102">
@@ -4689,11 +4762,80 @@
    d="m 1490.13,993.012 32.03,18.498 -29.61,51.29 h 59.23 v 36.99 h -59.23 l 29.61,51.29 -32.03,18.5 -29.61,-51.29 -29.62,51.29 -32.03,-18.5 29.61,-51.29 h -59.22 v -36.99 h 59.22 l -29.61,-51.29 32.03,-18.498 29.62,51.298 z"
    style="fill:#ffffff"
    id="path182" />
+            </g><g
+   id="g44"
+   transform="matrix(0.85714202,0,0,0.85714299,-31.864298,-15.224302)"
+   inkscape:label="ICON_VECTOR_2"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-width:1.19059;stroke-dasharray:none">
+                <g
+   id="g43"
+   transform="matrix(1.16667,0,0,1.16667,37.175,17.7617)"
+   style="stroke-width:1.0205;stroke-dasharray:none">
+                    <rect
+   x="-231.049"
+   y="-114.57"
+   width="16"
+   height="16"
+   style="fill:#b3b3b3;fill-opacity:0;stroke-width:1.0205;stroke-dasharray:none"
+   id="rect40" />
+                </g>
+                <circle
+   id="circle43"
+   cx="-223.049"
+   cy="-106.57"
+   style="fill:#6363c7;stroke:#272727;stroke-width:1.19059;stroke-dasharray:none;stroke-opacity:1"
+   r="6.4710002" />
+            </g><g
+   id="g60"
+   transform="matrix(0.85714202,0,0,0.85714299,-34.864298,-15.224302)"
+   inkscape:label="ICON_VALUE_2"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-width:1.19059;stroke-dasharray:none">
+                <g
+   id="g57"
+   transform="matrix(1.16667,0,0,1.16667,40.675,17.7617)"
+   style="stroke-width:1.0205;stroke-dasharray:none">
+                    <rect
+   x="-252.049"
+   y="-114.57"
+   width="16"
+   height="16"
+   style="fill:#b3b3b3;fill-opacity:0;stroke-width:1.0205;stroke-dasharray:none"
+   id="rect57" />
+                </g>
+                <circle
+   id="circle57"
+   cx="-244.049"
+   cy="-106.57"
+   style="fill:#a1a1a1;stroke:#262626;stroke-width:1.19059;stroke-dasharray:none;stroke-opacity:1"
+   r="6.4710002" />
+            </g><g
+   id="g64"
+   transform="matrix(0.857146,0,0,0.85714299,-37.8634,-15.224302)"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd"
+   inkscape:label="ICON_RGB_2">
+                <g
+   id="g63"
+   transform="matrix(1.16666,0,0,1.16667,44.1738,17.7617)">
+                    <rect
+   x="-273.04901"
+   y="-114.57"
+   width="16"
+   height="16"
+   style="fill:#b3b3b3;fill-opacity:0"
+   id="rect61" />
+                </g>
+                <circle
+   id="circle63"
+   cx="-265.04901"
+   cy="-106.57"
+   style="fill:#c7c729;stroke:#262626;stroke-width:1.19059;stroke-dasharray:none;stroke-opacity:1"
+   r="6.4710002" />
             </g>
             <g
    id="ICON_VECTOR2"
    serif:id="ICON_VECTOR"
-   transform="matrix(0.857142,0,0,0.857143,-31.6143,-14.9743)">
+   transform="matrix(0.857142,0,0,0.857143,-31.6143,-14.9743)"
+   style="display:none">
                 <g
    id="rect39698-0-92"
    serif:id="rect39698-0-9"
@@ -4721,7 +4863,8 @@
             <g
    id="ICON_VALUE2"
    serif:id="ICON_VALUE"
-   transform="matrix(0.857142,0,0,0.857143,-34.5143,-14.9743)">
+   transform="matrix(0.857142,0,0,0.857143,-34.5143,-14.9743)"
+   style="display:none">
                 <g
    id="rect39698-0-12"
    serif:id="rect39698-0-1"
@@ -4749,7 +4892,8 @@
             <g
    id="ICON_RGB2"
    serif:id="ICON_RGB"
-   transform="matrix(0.857146,0,0,0.857143,-37.4133,-14.9743)">
+   transform="matrix(0.857146,0,0,0.857143,-37.4133,-14.9743)"
+   style="display:none">
                 <g
    id="rect39698-0-42"
    serif:id="rect39698-0-4"
